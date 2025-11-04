@@ -1,0 +1,33 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background: #e0f2f1;
+  color: #333;
+  margin: 0;
+}
+
+header {
+  background: linear-gradient(135deg, #00897b, #004d40);
+  color: white;
+  padding: 50px 20px;
+  text-align: center;
+}
+
+nav a {
+  color: #b2dfdb;
+  margin: 0 12px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+section {
+  background: white;
+  margin: 30px auto;
+  padding: 30px;
+  border-radius: 10px;
+  max-width: 900px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+}
+
+ul li {
+  margin-bottom: 10px;
+}
